@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name angularJsYeomanApp
+ * @name testApp
  * @description
- * # angularJsYeomanApp
+ * # testApp
  *
  * Main module of the application.
  */
 angular
-  .module('angularJsYeomanApp', [
+  .module('testApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
